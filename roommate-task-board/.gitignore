@@ -21,3 +21,109 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# User-specific files
+../task-board-api/*.rsuser
+../task-board-api/*.suo
+../task-board-api/*.user
+../task-board-api/*.userosscache
+../task-board-api/*.sln.docstates
+
+# User-specific files (Mono)
+../task-board-api/mono_crash.*
+
+# Auto-generated files
+../task-board-api/*.Generated.cs
+
+# Build results
+../task-board-api/[Dd]ebug/
+../task-board-api/[Dd]ebugPublic/
+../task-board-api/[Rr]elease/
+../task-board-api/[Rr]eleases/
+../task-board-api/x64/
+../task-board-api/x86/
+../task-board-api/[Aa][Rr][Mm]/
+../task-board-api/[Aa][Rr][Mm]64/
+../task-board-api/bld/
+../task-board-api/[Bb]in/
+../task-board-api/[Oo]bj/
+../task-board-api/[Ll]og/
+../task-board-api/[Ll]ogs/
+
+# Visual Studio 2019 auto-generated files
+../task-board-api/.vs/
+
+# Windows image file caches
+../task-board-api/Thumbs.db
+../task-board-api/ehthumbs.db
+
+# Folder config file
+../task-board-api/Desktop.ini
+
+# Recycle Bin used on file shares
+../task-board-api/$RECYCLE.BIN/
+
+# VS Code directories
+../task-board-api/.vscode/
+
+# Rider
+../task-board-api/.idea/
+../task-board-api/*.sln.iml
+
+# ASP.NET Scaffolding
+../task-board-api/ScaffoldingReadMe.txt
+
+# Entity Framework
+../task-board-api/Migrations/
+
+# SQL Server files
+../task-board-api/*.mdf
+../task-board-api/*.ldf
+
+# Azure build files
+../task-board-api/*.Publish.xml
+
+# npm packages
+../task-board-api/node_modules/
+
+# .NET Core package dependencies
+../task-board-api/*.nuget/packages/
+../task-board-api/*.nuget/cache/
+
+# Coverage Results
+../task-board-api/coverage/
+
+# Test Results
+../task-board-api/TestResults/
+../task-board-api/*.trx
+../task-board-api/*.coverage
+../task-board-api/*.coveragexml
+../task-board-api/*.testsettings
+../task-board-api/*.runsettings
+../task-board-api/*.vscode/*
+
+# Web server configuration files
+../task-board-api/IISExpress/
+
+# Resharper
+../task-board-api/_ReSharper*
+../task-board-api/resharper.xml
+
+# NCrunch
+../task-board-api/.ncrunchsolution
+../task-board-api/*.ncrunchproject
+
+# DocProject
+../task-board-api/DocProject/buildhelp/
+../task-board-api/DocProject/Help/*.HxT
+../task-board-api/DocProject/Help/*.HxC
+../task-board-api/DocProject/Help/*.hhc
+../task-board-api/DocProject/Help/*.hhk
+../task-board-api/DocProject/Help/*.hhp
+../task-board-api/DocProject/Help/Html2
+
+# DocFX
+../task-board-api/_docfx
+
+# Python
+../task-board-api/venv/
